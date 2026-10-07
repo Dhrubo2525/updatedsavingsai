@@ -1,0 +1,81 @@
+{
+  "method": "Permutation importance on the last two chronological target months; negative values are floored for display.",
+  "features": [
+    {
+      "feature": "rolling_3m_expense",
+      "importance": 11514.774611604753,
+      "plain_language": "Your recent three-month spending average"
+    },
+    {
+      "feature": "total_expense",
+      "importance": 314.4133181242187,
+      "plain_language": "Total expense"
+    },
+    {
+      "feature": "income",
+      "importance": 202.2080757909228,
+      "plain_language": "Your monthly income signal"
+    },
+    {
+      "feature": "bill_expense",
+      "importance": 122.5204529476886,
+      "plain_language": "Your bills and mobile spending"
+    },
+    {
+      "feature": "other_expense",
+      "importance": 61.208914989919414,
+      "plain_language": "Other expense"
+    },
+    {
+      "feature": "transaction_count",
+      "importance": 43.453107702485795,
+      "plain_language": "How often you transact"
+    },
+    {
+      "feature": "cashout_expense",
+      "importance": 33.64211836364284,
+      "plain_language": "Cashout expense"
+    },
+    {
+      "feature": "food_expense",
+      "importance": 28.520460207181806,
+      "plain_language": "Your food spending"
+    },
+    {
+      "feature": "previous_month_expense",
+      "importance": 23.962765769346426,
+      "plain_language": "Your latest spending level"
+    },
+    {
+      "feature": "shopping_expense",
+      "importance": 17.32659781118873,
+      "plain_language": "Your shopping spending"
+    },
+    {
+      "feature": "transport_expense",
+      "importance": 16.267119634372012,
+      "plain_language": "Transport expense"
+    },
+    {
+      "feature": "average_transaction",
+      "importance": 0.0,
+      "plain_language": "Average transaction"
+    },
+    {
+      "feature": "month_number",
+      "importance": 0.0,
+      "plain_language": "Seasonal timing"
+    },
+    {
+      "feature": "season_sin",
+      "importance": 0.0,
+      "plain_language": "Season sin"
+    },
+    {
+      "feature": "season_cos",
+      "importance": 0.0,
+      "plain_language": "Season cos"
+    }
+  ],
+  "synthetic_evaluation": true
+}

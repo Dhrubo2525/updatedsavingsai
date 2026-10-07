@@ -1,0 +1,15 @@
+{
+  "synthetic_only": true,
+  "seed": 202609,
+  "users": 250,
+  "history_months": 12,
+  "transactions": 140426,
+  "period": "2025-10 through 2026-09",
+  "assumptions": [
+    "Transaction amounts are simulated category allocations, not wallet records.",
+    "Income is generated as a monthly signal; income rows are not transaction rows.",
+    "Freelancer income has a wider distribution than salaried income.",
+    "Rare category spikes are injected for model and anomaly demonstrations.",
+    "Synthetic users do not represent or validate real upay customers."
+  ]
+}

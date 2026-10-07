@@ -1,0 +1,63 @@
+{
+  "label": "Synthetic scenario model \u2014 not real customer evidence",
+  "method": "Per-profile six-month projection over the latest three synthetic months. The scenario applies an illustrative 8% reduction to Shopping expenses; it is not observed behavior, an experiment, or a causal estimate.",
+  "primary_metric": "Six-month goal feasibility: share of profiles whose estimated reserve-aware monthly capacity covers a benchmark goal equal to 18% of median monthly income within six months.",
+  "guardrail": "The same income-volatility-aware safety buffer is subtracted in both scenarios. Contributions are capped by the remaining estimated capacity.",
+  "sample_users": 250,
+  "control": {
+    "goal_feasibility_pct": 86.0,
+    "goals_achieved": 215,
+    "projected_savings_per_user": 7332.67,
+    "users_with_positive_capacity_pct": 90.0
+  },
+  "treatment": {
+    "goal_feasibility_pct": 86.4,
+    "goals_achieved": 216,
+    "projected_savings_per_user": 7510.64,
+    "users_with_positive_capacity_pct": 92.4
+  },
+  "goal_feasibility_change_percentage_points": 0.4,
+  "mean_simulated_monthly_capacity_change": 364.36,
+  "mean_reserve_aware_monthly_capacity": {
+    "control": 6787.15,
+    "treatment": 7151.51
+  },
+  "synthetic_occupation_outcomes": {
+    "Freelancer": {
+      "profiles": 34,
+      "control_goal_feasibility_pct": 55.9,
+      "treatment_goal_feasibility_pct": 55.9
+    },
+    "Healthcare worker": {
+      "profiles": 29,
+      "control_goal_feasibility_pct": 93.1,
+      "treatment_goal_feasibility_pct": 93.1
+    },
+    "Private employee": {
+      "profiles": 37,
+      "control_goal_feasibility_pct": 94.6,
+      "treatment_goal_feasibility_pct": 94.6
+    },
+    "Service worker": {
+      "profiles": 46,
+      "control_goal_feasibility_pct": 91.3,
+      "treatment_goal_feasibility_pct": 91.3
+    },
+    "Small business owner": {
+      "profiles": 39,
+      "control_goal_feasibility_pct": 87.2,
+      "treatment_goal_feasibility_pct": 89.7
+    },
+    "Teacher": {
+      "profiles": 35,
+      "control_goal_feasibility_pct": 88.6,
+      "treatment_goal_feasibility_pct": 88.6
+    },
+    "University student": {
+      "profiles": 30,
+      "control_goal_feasibility_pct": 90.0,
+      "treatment_goal_feasibility_pct": 90.0
+    }
+  },
+  "caveat": "Outputs describe a fixed generated-data scenario with assumed behavior. Small differences are not evidence of product impact and must not be presented as causal or real-customer results."
+}

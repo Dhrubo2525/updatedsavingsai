@@ -1,0 +1,251 @@
+﻿user_id,occupation,age_group,monthly_income,current_savings,language,region,city,account_age_days,average_monthly_transactions
+SYN-0001,University student,18-24,18000,13500,en,Dhaka,Dhaka,1366,49.1
+SYN-0002,Private employee,25-34,36000,27000,bn,Chattogram,Chattogram,506,34.5
+SYN-0003,Freelancer,25-34,42000,4000,bn,Sylhet,Sylhet,850,52.1
+SYN-0004,Private employee,25-34,61500,47500,bn,Rajshahi,Rajshahi,2011,54.7
+SYN-0005,Teacher,35-44,49000,75000,en,Khulna,Khulna,1735,47.9
+SYN-0006,Small business owner,35-44,35000,11500,bn,Barishal,Barishal,969,40.1
+SYN-0007,Teacher,35-44,66500,69500,bn,Rangpur,Rangpur,2200,24.6
+SYN-0008,Service worker,45-54,71500,45000,bn,Mymensingh,Mymensingh,2392,23.9
+SYN-0009,University student,25-34,20000,18000,en,Dhaka,Dhaka,833,33.5
+SYN-0010,Private employee,25-34,48500,76500,bn,Chattogram,Chattogram,2078,20.4
+SYN-0011,Service worker,25-34,29000,51500,bn,Sylhet,Sylhet,1532,20.0
+SYN-0012,Small business owner,35-44,71500,35500,bn,Rajshahi,Rajshahi,1853,25.1
+SYN-0013,Small business owner,45-54,40500,87500,en,Khulna,Khulna,1632,50.7
+SYN-0014,University student,45-54,77000,124000,bn,Barishal,Barishal,1425,22.2
+SYN-0015,Healthcare worker,35-44,45500,77000,bn,Rangpur,Rangpur,2027,29.6
+SYN-0016,Teacher,45-54,28500,29500,bn,Mymensingh,Mymensingh,2239,35.5
+SYN-0017,Private employee,35-44,16000,35500,en,Dhaka,Dhaka,1357,20.6
+SYN-0018,Freelancer,35-44,62000,35500,bn,Chattogram,Chattogram,555,22.9
+SYN-0019,Freelancer,35-44,50000,8500,bn,Sylhet,Sylhet,1563,36.5
+SYN-0020,Private employee,18-24,18500,10000,bn,Rajshahi,Rajshahi,1815,48.9
+SYN-0021,Small business owner,18-24,77500,93500,en,Khulna,Khulna,1109,35.0
+SYN-0022,Service worker,18-24,53000,71000,bn,Barishal,Barishal,1587,43.5
+SYN-0023,Small business owner,18-24,48000,97500,bn,Rangpur,Rangpur,2119,21.7
+SYN-0024,Small business owner,45-54,22500,45000,bn,Mymensingh,Mymensingh,1787,46.8
+SYN-0025,University student,35-44,62000,86000,en,Dhaka,Dhaka,391,43.9
+SYN-0026,Service worker,18-24,40500,82000,bn,Chattogram,Chattogram,334,22.6
+SYN-0027,University student,25-34,63500,140500,bn,Sylhet,Sylhet,1471,32.5
+SYN-0028,Private employee,18-24,52000,99000,bn,Rajshahi,Rajshahi,1082,30.3
+SYN-0029,Healthcare worker,35-44,38500,62000,en,Khulna,Khulna,536,30.0
+SYN-0030,Service worker,18-24,52000,64000,bn,Barishal,Barishal,1251,22.6
+SYN-0031,Freelancer,35-44,25500,4500,bn,Rangpur,Rangpur,573,36.9
+SYN-0032,Service worker,45-54,26000,54500,bn,Mymensingh,Mymensingh,2049,53.2
+SYN-0033,Teacher,35-44,54500,28000,en,Dhaka,Dhaka,273,21.5
+SYN-0034,Private employee,45-54,47500,10500,bn,Chattogram,Chattogram,1306,36.2
+SYN-0035,Private employee,25-34,37500,23000,bn,Sylhet,Sylhet,818,31.4
+SYN-0036,Teacher,25-34,65000,110000,bn,Rajshahi,Rajshahi,2323,52.4
+SYN-0037,Teacher,45-54,59000,27000,en,Khulna,Khulna,313,25.3
+SYN-0038,Teacher,18-24,35500,64000,bn,Barishal,Barishal,1579,27.4
+SYN-0039,Private employee,35-44,17000,24500,bn,Rangpur,Rangpur,1585,32.2
+SYN-0040,Small business owner,45-54,68000,13500,bn,Mymensingh,Mymensingh,1914,24.0
+SYN-0041,Private employee,35-44,32500,47500,en,Dhaka,Dhaka,1927,31.6
+SYN-0042,Small business owner,35-44,37000,7000,bn,Chattogram,Chattogram,2220,21.9
+SYN-0043,Private employee,35-44,54500,27000,bn,Sylhet,Sylhet,1428,48.8
+SYN-0044,Service worker,45-54,25000,49500,bn,Rajshahi,Rajshahi,480,49.2
+SYN-0045,Small business owner,18-24,41500,87000,en,Khulna,Khulna,746,44.6
+SYN-0046,Private employee,35-44,67000,34500,bn,Barishal,Barishal,1711,46.3
+SYN-0047,Small business owner,25-34,35500,31000,bn,Rangpur,Rangpur,1923,28.0
+SYN-0048,Freelancer,45-54,17000,38000,bn,Mymensingh,Mymensingh,1099,28.5
+SYN-0049,Teacher,35-44,28000,63000,en,Dhaka,Dhaka,1208,25.1
+SYN-0050,University student,25-34,31500,19500,bn,Chattogram,Chattogram,514,25.5
+SYN-0051,Healthcare worker,45-54,77000,81500,bn,Sylhet,Sylhet,239,48.9
+SYN-0052,Healthcare worker,35-44,52000,36500,bn,Rajshahi,Rajshahi,643,41.1
+SYN-0053,Freelancer,45-54,36000,49000,en,Khulna,Khulna,736,23.2
+SYN-0054,Freelancer,25-34,34500,39000,bn,Barishal,Barishal,1301,39.2
+SYN-0055,Private employee,25-34,24000,12500,bn,Rangpur,Rangpur,390,29.2
+SYN-0056,Service worker,45-54,33000,44500,bn,Mymensingh,Mymensingh,2059,53.5
+SYN-0057,Small business owner,18-24,42500,91500,en,Dhaka,Dhaka,2068,40.7
+SYN-0058,Freelancer,35-44,35000,61500,bn,Chattogram,Chattogram,1105,44.3
+SYN-0059,Service worker,25-34,59000,66000,bn,Sylhet,Sylhet,1724,44.4
+SYN-0060,Teacher,35-44,18000,38000,bn,Rajshahi,Rajshahi,309,37.7
+SYN-0061,Teacher,25-34,54500,66500,en,Khulna,Khulna,1964,37.4
+SYN-0062,Healthcare worker,18-24,16500,39000,bn,Barishal,Barishal,1196,28.6
+SYN-0063,Private employee,18-24,61500,123000,bn,Rangpur,Rangpur,1904,49.0
+SYN-0064,Private employee,35-44,55000,47000,bn,Mymensingh,Mymensingh,1995,53.6
+SYN-0065,Private employee,25-34,47500,71500,en,Dhaka,Dhaka,1317,31.0
+SYN-0066,Service worker,35-44,24000,17000,bn,Chattogram,Chattogram,1921,37.0
+SYN-0067,Private employee,35-44,20000,24000,bn,Sylhet,Sylhet,1022,40.8
+SYN-0068,Teacher,18-24,27000,51000,bn,Rajshahi,Rajshahi,2137,18.7
+SYN-0069,Freelancer,45-54,30500,6500,en,Khulna,Khulna,870,37.2
+SYN-0070,Small business owner,45-54,53000,52000,bn,Barishal,Barishal,289,26.3
+SYN-0071,Service worker,25-34,76500,48500,bn,Rangpur,Rangpur,1880,49.1
+SYN-0072,Small business owner,35-44,75000,158000,bn,Mymensingh,Mymensingh,282,49.7
+SYN-0073,Private employee,45-54,43000,37000,en,Dhaka,Dhaka,238,41.1
+SYN-0074,Small business owner,25-34,51500,90000,bn,Chattogram,Chattogram,1725,34.2
+SYN-0075,Teacher,35-44,71500,167500,bn,Sylhet,Sylhet,239,25.3
+SYN-0076,Freelancer,35-44,21500,34500,bn,Rajshahi,Rajshahi,2256,29.5
+SYN-0077,Healthcare worker,45-54,61000,116500,en,Khulna,Khulna,1179,34.8
+SYN-0078,Teacher,25-34,25000,25000,bn,Barishal,Barishal,1557,49.2
+SYN-0079,Service worker,35-44,42500,70000,bn,Rangpur,Rangpur,2066,33.0
+SYN-0080,Private employee,35-44,26500,46000,bn,Mymensingh,Mymensingh,1381,41.2
+SYN-0081,Healthcare worker,18-24,30000,50000,en,Dhaka,Dhaka,228,51.9
+SYN-0082,University student,25-34,73500,62500,bn,Chattogram,Chattogram,1172,35.7
+SYN-0083,Freelancer,35-44,51000,66000,bn,Sylhet,Sylhet,1676,23.9
+SYN-0084,Healthcare worker,35-44,33500,44000,bn,Rajshahi,Rajshahi,2037,33.6
+SYN-0085,Freelancer,35-44,27000,22500,en,Khulna,Khulna,2074,34.5
+SYN-0086,Small business owner,25-34,75000,50500,bn,Barishal,Barishal,1134,46.9
+SYN-0087,Service worker,18-24,75000,179000,bn,Rangpur,Rangpur,2148,40.5
+SYN-0088,Healthcare worker,18-24,46000,72000,bn,Mymensingh,Mymensingh,974,18.9
+SYN-0089,Healthcare worker,18-24,34000,40000,en,Dhaka,Dhaka,790,24.8
+SYN-0090,University student,25-34,37000,50500,bn,Chattogram,Chattogram,1385,36.5
+SYN-0091,Small business owner,18-24,64000,53000,bn,Sylhet,Sylhet,302,47.3
+SYN-0092,Freelancer,18-24,44000,101000,bn,Rajshahi,Rajshahi,1375,30.8
+SYN-0093,Teacher,18-24,53500,90000,en,Khulna,Khulna,1721,50.4
+SYN-0094,University student,45-54,67500,24000,bn,Barishal,Barishal,1917,49.1
+SYN-0095,Healthcare worker,35-44,62500,37500,bn,Rangpur,Rangpur,2278,24.1
+SYN-0096,University student,45-54,73000,14500,bn,Mymensingh,Mymensingh,1964,22.7
+SYN-0097,Teacher,18-24,27500,41000,en,Dhaka,Dhaka,197,38.4
+SYN-0098,Small business owner,35-44,61500,9500,bn,Chattogram,Chattogram,261,31.1
+SYN-0099,Private employee,25-34,41500,32000,bn,Sylhet,Sylhet,1442,40.3
+SYN-0100,Service worker,18-24,50500,41000,bn,Rajshahi,Rajshahi,807,26.0
+SYN-0101,University student,45-54,31500,36000,en,Khulna,Khulna,1434,31.6
+SYN-0102,Small business owner,45-54,23500,51500,bn,Barishal,Barishal,1874,54.5
+SYN-0103,Service worker,18-24,55000,37000,bn,Rangpur,Rangpur,735,39.6
+SYN-0104,University student,35-44,35000,67000,bn,Mymensingh,Mymensingh,1818,33.7
+SYN-0105,Service worker,35-44,36500,15000,en,Dhaka,Dhaka,2163,27.6
+SYN-0106,Private employee,18-24,52000,41500,bn,Chattogram,Chattogram,2087,19.1
+SYN-0107,Freelancer,35-44,57000,73000,bn,Sylhet,Sylhet,343,25.6
+SYN-0108,Small business owner,45-54,30000,55500,bn,Rajshahi,Rajshahi,2189,52.7
+SYN-0109,Teacher,18-24,65000,117000,en,Khulna,Khulna,817,19.1
+SYN-0110,Private employee,18-24,69500,155000,bn,Barishal,Barishal,2385,48.6
+SYN-0111,Healthcare worker,45-54,69500,105500,bn,Rangpur,Rangpur,679,24.1
+SYN-0112,Healthcare worker,45-54,56500,51500,bn,Mymensingh,Mymensingh,596,37.7
+SYN-0113,Service worker,45-54,64500,53500,en,Dhaka,Dhaka,2092,50.0
+SYN-0114,Freelancer,25-34,70500,113500,bn,Chattogram,Chattogram,2001,23.1
+SYN-0115,Freelancer,35-44,73500,40500,bn,Sylhet,Sylhet,1218,37.2
+SYN-0116,Teacher,45-54,37500,72000,bn,Rajshahi,Rajshahi,2368,19.1
+SYN-0117,Freelancer,45-54,23500,21000,en,Khulna,Khulna,1470,45.5
+SYN-0118,Private employee,25-34,22000,6500,bn,Barishal,Barishal,359,46.3
+SYN-0119,University student,35-44,54000,64000,bn,Rangpur,Rangpur,1930,46.8
+SYN-0120,Small business owner,45-54,76500,109000,bn,Mymensingh,Mymensingh,421,31.1
+SYN-0121,Private employee,35-44,19500,41500,en,Dhaka,Dhaka,307,26.5
+SYN-0122,Small business owner,18-24,48000,51500,bn,Chattogram,Chattogram,1861,18.2
+SYN-0123,Small business owner,35-44,24500,25000,bn,Sylhet,Sylhet,1164,19.4
+SYN-0124,Freelancer,25-34,74500,35000,bn,Rajshahi,Rajshahi,538,38.2
+SYN-0125,Small business owner,25-34,27500,37500,en,Khulna,Khulna,1641,54.3
+SYN-0126,Service worker,45-54,68500,23500,bn,Barishal,Barishal,688,41.3
+SYN-0127,Private employee,45-54,32500,36000,bn,Rangpur,Rangpur,832,19.1
+SYN-0128,Service worker,35-44,67000,157000,bn,Mymensingh,Mymensingh,2197,21.2
+SYN-0129,Small business owner,25-34,72000,124500,en,Dhaka,Dhaka,2185,20.9
+SYN-0130,University student,25-34,48000,57500,bn,Chattogram,Chattogram,1093,47.4
+SYN-0131,Teacher,35-44,52500,92000,bn,Sylhet,Sylhet,845,32.9
+SYN-0132,Healthcare worker,25-34,67500,161500,bn,Rajshahi,Rajshahi,696,28.6
+SYN-0133,Small business owner,45-54,51500,110000,en,Khulna,Khulna,2144,54.6
+SYN-0134,Small business owner,35-44,46500,89500,bn,Barishal,Barishal,224,52.6
+SYN-0135,Service worker,18-24,18500,37000,bn,Rangpur,Rangpur,2034,27.9
+SYN-0136,Freelancer,45-54,26000,55000,bn,Mymensingh,Mymensingh,686,32.2
+SYN-0137,Service worker,25-34,53000,93000,en,Dhaka,Dhaka,1365,35.0
+SYN-0138,Service worker,18-24,54500,58000,bn,Chattogram,Chattogram,1265,44.7
+SYN-0139,Private employee,35-44,24000,8500,bn,Sylhet,Sylhet,550,27.8
+SYN-0140,Small business owner,35-44,63500,70500,bn,Rajshahi,Rajshahi,2344,39.5
+SYN-0141,Freelancer,45-54,75500,15500,en,Khulna,Khulna,1466,42.7
+SYN-0142,Healthcare worker,25-34,78500,78500,bn,Barishal,Barishal,583,45.9
+SYN-0143,Service worker,45-54,54000,20000,bn,Rangpur,Rangpur,1397,30.5
+SYN-0144,University student,45-54,73500,74500,bn,Mymensingh,Mymensingh,878,53.9
+SYN-0145,Healthcare worker,45-54,18000,20000,en,Dhaka,Dhaka,210,47.4
+SYN-0146,Service worker,35-44,26500,37500,bn,Chattogram,Chattogram,1467,38.9
+SYN-0147,Private employee,35-44,51500,69500,bn,Sylhet,Sylhet,1872,51.4
+SYN-0148,Service worker,45-54,62500,65500,bn,Rajshahi,Rajshahi,1897,48.4
+SYN-0149,Freelancer,25-34,51000,24000,en,Khulna,Khulna,1644,18.1
+SYN-0150,Service worker,18-24,66000,134000,bn,Barishal,Barishal,2118,41.7
+SYN-0151,Service worker,45-54,26000,6500,bn,Rangpur,Rangpur,1326,18.0
+SYN-0152,Healthcare worker,35-44,44500,17000,bn,Mymensingh,Mymensingh,1790,46.4
+SYN-0153,Freelancer,35-44,45500,101500,en,Dhaka,Dhaka,1438,36.0
+SYN-0154,Small business owner,18-24,28000,8500,bn,Chattogram,Chattogram,1804,32.4
+SYN-0155,Healthcare worker,45-54,64500,122500,bn,Sylhet,Sylhet,716,35.9
+SYN-0156,Service worker,35-44,54500,70000,bn,Rajshahi,Rajshahi,2179,23.2
+SYN-0157,Service worker,18-24,64500,123500,en,Khulna,Khulna,378,53.8
+SYN-0158,Small business owner,45-54,47000,108000,bn,Barishal,Barishal,323,35.7
+SYN-0159,Teacher,45-54,64500,26500,bn,Rangpur,Rangpur,577,39.6
+SYN-0160,Private employee,25-34,46500,72000,bn,Mymensingh,Mymensingh,2375,48.5
+SYN-0161,University student,25-34,41500,11000,en,Dhaka,Dhaka,2011,31.7
+SYN-0162,Service worker,45-54,61000,107000,bn,Chattogram,Chattogram,1070,48.4
+SYN-0163,Healthcare worker,35-44,29500,25000,bn,Sylhet,Sylhet,1634,45.4
+SYN-0164,Healthcare worker,25-34,79500,101000,bn,Rajshahi,Rajshahi,2028,24.9
+SYN-0165,Service worker,35-44,42000,95500,en,Khulna,Khulna,1773,34.7
+SYN-0166,University student,25-34,62500,25500,bn,Barishal,Barishal,2126,27.8
+SYN-0167,Freelancer,25-34,32500,16000,bn,Rangpur,Rangpur,888,48.6
+SYN-0168,University student,18-24,18000,17000,bn,Mymensingh,Mymensingh,2394,38.9
+SYN-0169,Healthcare worker,45-54,23000,14000,en,Dhaka,Dhaka,816,18.4
+SYN-0170,Small business owner,25-34,38500,63000,bn,Chattogram,Chattogram,696,37.8
+SYN-0171,University student,35-44,64500,30000,bn,Sylhet,Sylhet,1507,34.8
+SYN-0172,University student,25-34,20500,14000,bn,Rajshahi,Rajshahi,1971,33.2
+SYN-0173,Freelancer,35-44,65000,41000,en,Khulna,Khulna,1944,34.8
+SYN-0174,Service worker,25-34,38500,89500,bn,Barishal,Barishal,2300,41.2
+SYN-0175,Service worker,18-24,54000,56000,bn,Rangpur,Rangpur,1840,45.7
+SYN-0176,Teacher,35-44,74000,109000,bn,Mymensingh,Mymensingh,243,36.4
+SYN-0177,Service worker,45-54,43500,80500,en,Dhaka,Dhaka,773,46.1
+SYN-0178,Teacher,25-34,47000,36000,bn,Chattogram,Chattogram,739,42.1
+SYN-0179,Teacher,35-44,48000,22000,bn,Sylhet,Sylhet,871,20.0
+SYN-0180,Service worker,18-24,48500,13500,bn,Rajshahi,Rajshahi,1213,20.1
+SYN-0181,Healthcare worker,35-44,41000,88000,en,Khulna,Khulna,657,31.5
+SYN-0182,Freelancer,18-24,32500,48000,bn,Barishal,Barishal,1195,36.1
+SYN-0183,Private employee,25-34,47000,50500,bn,Rangpur,Rangpur,525,26.3
+SYN-0184,University student,18-24,24000,8500,bn,Mymensingh,Mymensingh,1198,22.7
+SYN-0185,Private employee,25-34,36500,22500,en,Dhaka,Dhaka,309,29.8
+SYN-0186,Healthcare worker,25-34,36500,74000,bn,Chattogram,Chattogram,2379,45.0
+SYN-0187,Teacher,35-44,61000,42500,bn,Sylhet,Sylhet,915,26.8
+SYN-0188,Healthcare worker,35-44,64000,106000,bn,Rajshahi,Rajshahi,1294,47.9
+SYN-0189,Healthcare worker,25-34,63000,46500,en,Khulna,Khulna,1720,28.7
+SYN-0190,Service worker,25-34,30500,49000,bn,Barishal,Barishal,1543,22.7
+SYN-0191,Freelancer,25-34,21500,31500,bn,Rangpur,Rangpur,1030,34.1
+SYN-0192,Freelancer,25-34,22500,46500,bn,Mymensingh,Mymensingh,1581,27.0
+SYN-0193,Freelancer,25-34,46500,87000,en,Dhaka,Dhaka,1335,27.3
+SYN-0194,University student,18-24,61000,93500,bn,Chattogram,Chattogram,457,24.0
+SYN-0195,Freelancer,45-54,16000,9000,bn,Sylhet,Sylhet,2213,51.6
+SYN-0196,Small business owner,25-34,81500,68000,bn,Rajshahi,Rajshahi,478,30.5
+SYN-0197,Private employee,18-24,25000,44000,en,Khulna,Khulna,993,48.5
+SYN-0198,Small business owner,18-24,79000,171500,bn,Barishal,Barishal,565,18.8
+SYN-0199,Private employee,25-34,62000,56500,bn,Rangpur,Rangpur,1647,41.0
+SYN-0200,Freelancer,18-24,42500,29000,bn,Mymensingh,Mymensingh,849,48.3
+SYN-0201,Small business owner,18-24,75500,141500,en,Dhaka,Dhaka,365,47.3
+SYN-0202,Teacher,25-34,44500,40000,bn,Chattogram,Chattogram,1431,41.6
+SYN-0203,Service worker,35-44,73000,17500,bn,Sylhet,Sylhet,1733,34.2
+SYN-0204,Small business owner,45-54,24000,52000,bn,Rajshahi,Rajshahi,909,39.8
+SYN-0205,Teacher,18-24,24500,42500,en,Khulna,Khulna,1108,49.3
+SYN-0206,Service worker,35-44,61000,61500,bn,Barishal,Barishal,695,46.1
+SYN-0207,University student,45-54,21500,51000,bn,Rangpur,Rangpur,1040,25.9
+SYN-0208,Service worker,25-34,81000,96000,bn,Mymensingh,Mymensingh,566,18.4
+SYN-0209,Teacher,35-44,36000,61000,en,Dhaka,Dhaka,1500,42.8
+SYN-0210,Teacher,25-34,20000,45000,bn,Chattogram,Chattogram,562,28.8
+SYN-0211,Freelancer,35-44,39500,29500,bn,Sylhet,Sylhet,1608,23.9
+SYN-0212,Service worker,25-34,16500,13000,bn,Rajshahi,Rajshahi,1520,43.1
+SYN-0213,Small business owner,25-34,64000,71500,en,Khulna,Khulna,1245,45.9
+SYN-0214,Freelancer,25-34,54500,124000,bn,Barishal,Barishal,958,30.0
+SYN-0215,Private employee,18-24,30000,61500,bn,Rangpur,Rangpur,2037,21.5
+SYN-0216,University student,25-34,57500,49500,bn,Mymensingh,Mymensingh,1606,40.0
+SYN-0217,Service worker,35-44,36500,86500,en,Dhaka,Dhaka,1459,39.6
+SYN-0218,Freelancer,25-34,31000,40500,bn,Chattogram,Chattogram,250,20.7
+SYN-0219,Teacher,35-44,70000,148500,bn,Sylhet,Sylhet,1431,33.6
+SYN-0220,Teacher,25-34,79000,38000,bn,Rajshahi,Rajshahi,704,27.3
+SYN-0221,Service worker,45-54,38000,48000,en,Khulna,Khulna,1111,34.7
+SYN-0222,Teacher,35-44,76500,25500,bn,Barishal,Barishal,333,28.3
+SYN-0223,Private employee,18-24,78000,83000,bn,Rangpur,Rangpur,1304,50.5
+SYN-0224,Small business owner,35-44,35000,74000,bn,Mymensingh,Mymensingh,1367,35.6
+SYN-0225,University student,18-24,56000,120500,en,Dhaka,Dhaka,1712,51.0
+SYN-0226,Teacher,18-24,54500,116000,bn,Chattogram,Chattogram,1425,51.3
+SYN-0227,Service worker,35-44,16000,22000,bn,Sylhet,Sylhet,1534,32.9
+SYN-0228,University student,25-34,52500,90000,bn,Rajshahi,Rajshahi,2063,25.8
+SYN-0229,Private employee,35-44,28500,45000,en,Khulna,Khulna,1005,40.8
+SYN-0230,Small business owner,45-54,22500,25500,bn,Barishal,Barishal,2222,21.8
+SYN-0231,Freelancer,45-54,72000,133500,bn,Rangpur,Rangpur,1408,31.7
+SYN-0232,Small business owner,45-54,65000,79000,bn,Mymensingh,Mymensingh,1433,46.5
+SYN-0233,University student,18-24,63000,35000,en,Dhaka,Dhaka,535,19.6
+SYN-0234,Service worker,35-44,55000,70500,bn,Chattogram,Chattogram,949,53.7
+SYN-0235,Teacher,45-54,21000,33500,bn,Sylhet,Sylhet,1980,28.2
+SYN-0236,Teacher,25-34,49000,9500,bn,Rajshahi,Rajshahi,751,23.0
+SYN-0237,Healthcare worker,25-34,76000,65000,en,Khulna,Khulna,1609,27.4
+SYN-0238,Service worker,35-44,74500,90500,bn,Barishal,Barishal,794,19.3
+SYN-0239,Healthcare worker,45-54,30000,26500,bn,Rangpur,Rangpur,2232,24.9
+SYN-0240,Private employee,45-54,43500,30500,bn,Mymensingh,Mymensingh,290,54.6
+SYN-0241,Healthcare worker,35-44,30000,50000,en,Dhaka,Dhaka,1146,26.1
+SYN-0242,Service worker,45-54,54500,26000,bn,Chattogram,Chattogram,496,30.1
+SYN-0243,Teacher,25-34,24000,49000,bn,Sylhet,Sylhet,1185,30.9
+SYN-0244,Small business owner,35-44,43000,17000,bn,Rajshahi,Rajshahi,2239,21.7
+SYN-0245,University student,25-34,65500,135000,en,Khulna,Khulna,2177,54.8
+SYN-0246,University student,18-24,43000,30000,bn,Barishal,Barishal,794,23.2
+SYN-0247,Private employee,25-34,43500,30500,bn,Rangpur,Rangpur,712,40.8
+SYN-0248,Healthcare worker,18-24,38500,80000,bn,Mymensingh,Mymensingh,2026,48.6
+SYN-0249,Teacher,35-44,24000,49000,en,Dhaka,Dhaka,406,30.5
+SYN-0250,University student,25-34,65000,139500,bn,Chattogram,Chattogram,444,33.5

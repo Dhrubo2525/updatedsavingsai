@@ -1,0 +1,84 @@
+{
+  "method": "Expanding-window, one-month-ahead walk-forward validation; observations ordered by target month.",
+  "folds": 5,
+  "training_rows": 10000,
+  "validation_rows": 1250,
+  "models": {
+    "Gradient Boosting": {
+      "mae": 2703.690007742877,
+      "rmse": 3536.0321789526038,
+      "r2": 0.9516572715317075,
+      "mape": 7.685319377903388
+    },
+    "Extra Trees": {
+      "mae": 2680.8737377723173,
+      "rmse": 3527.5346498173967,
+      "r2": 0.9517466670304682,
+      "mape": 7.408256030666986
+    },
+    "Random Forest": {
+      "mae": 2652.801388248768,
+      "rmse": 3524.224747401805,
+      "r2": 0.9519042540216045,
+      "mape": 7.278490963172301
+    }
+  },
+  "baselines": {
+    "Last month": {
+      "mae": 3183.350512,
+      "rmse": 4263.338664390027,
+      "r2": 0.92966862365505,
+      "mape": 8.584118439030812
+    },
+    "Rolling 3-month mean": {
+      "mae": 2604.0778000000005,
+      "rmse": 3472.32512417618,
+      "r2": 0.9532165179792867,
+      "mape": 7.075371681791722
+    }
+  },
+  "selected_model": "Random Forest",
+  "best_baseline": "Rolling 3-month mean",
+  "baseline_beaten": "Last month",
+  "relative_mae_changes_pct_vs_baselines": {
+    "Last month": 16.67,
+    "Rolling 3-month mean": -1.87
+  },
+  "relative_mae_improvement_vs_baseline_pct": 16.67,
+  "relative_mae_improvement_vs_best_baseline_pct": -1.87,
+  "beats_at_least_one_baseline": true,
+  "validation_absolute_error_p90": 5744.0353688960495,
+  "validation_error_band_method": "90th percentile of absolute errors across selected-model walk-forward predictions; descriptive empirical band, not a calibrated probability interval.",
+  "fairness_by_occupation": {
+    "Freelancer": {
+      "mae": 2564.7530407918207,
+      "validation_rows": 170
+    },
+    "Healthcare worker": {
+      "mae": 2641.2523298596425,
+      "validation_rows": 145
+    },
+    "Private employee": {
+      "mae": 2480.8298975218795,
+      "validation_rows": 185
+    },
+    "Service worker": {
+      "mae": 2757.2162550167573,
+      "validation_rows": 230
+    },
+    "Small business owner": {
+      "mae": 2519.951189739296,
+      "validation_rows": 195
+    },
+    "Teacher": {
+      "mae": 2662.134075923249,
+      "validation_rows": 175
+    },
+    "University student": {
+      "mae": 2977.566103770462,
+      "validation_rows": 150
+    }
+  },
+  "target": "next-month total expenses (BDT)",
+  "synthetic_evaluation": true
+}

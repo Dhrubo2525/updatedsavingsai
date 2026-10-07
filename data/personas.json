@@ -1,0 +1,50 @@
+[
+  {
+    "persona_id": "nadia",
+    "name": "Nadia",
+    "user_id": "SYN-0001",
+    "profile": "University student",
+    "story": "Irregular discretionary spending; building a small emergency fund.",
+    "demo_purpose": "Show a behavior-aware savings plan.",
+    "goal": {
+      "name": "Emergency Fund",
+      "target_amount": 30000,
+      "current_saved_amount": 13500,
+      "target_months": 6,
+      "priority": "high",
+      "deadline": "2027-03-31"
+    }
+  },
+  {
+    "persona_id": "arif",
+    "name": "Arif",
+    "user_id": "SYN-0002",
+    "profile": "Private employee",
+    "story": "Regular income with higher food and shopping spending; shopping rose sharply in the latest synthetic month.",
+    "demo_purpose": "Show spending analysis, a grounded recommendation and What-If.",
+    "goal": {
+      "name": "New Laptop",
+      "target_amount": 60000,
+      "current_saved_amount": 27000,
+      "target_months": 6,
+      "priority": "medium",
+      "deadline": "2027-03-31"
+    }
+  },
+  {
+    "persona_id": "rafi",
+    "name": "Rafi",
+    "user_id": "SYN-0003",
+    "profile": "Freelancer",
+    "story": "Income varies month to month, so the planner uses a conservative recent-income estimate.",
+    "demo_purpose": "Show variable-income planning and an honest difficult-goal result.",
+    "goal": {
+      "name": "Emergency Reserve",
+      "target_amount": 80000,
+      "current_saved_amount": 4000,
+      "target_months": 9,
+      "priority": "high",
+      "deadline": "2027-06-30"
+    }
+  }
+]
